@@ -1,0 +1,61 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: 80%;
+       height: 100%;
+       padding-top: 10px;
+       padding-right: 10px;
+       padding-bottom: 10px;
+       padding-left: 10px;
+       margin-top: ;
+       margin-right: 5px;
+       margin-bottom: ;
+       margin-left: 5px;
+    }
+
+    header {
+        background-color: yellow;
+        padding: 5px;
+        font-size:;
+        display: block;
+        margin-left:;
+        border: 2px;
+        text-align: center;
+        width: 87.4%;
+    }
+    body nav {
+        float: left;
+        width: 20%;
+        padding-left: 10px;
+        padding-right: 30px;
+        padding-top: ;
+        padding-bottom: ;
+}
+    section {
+        width: 49%;
+        float: left;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: ;
+        padding-bottom: ;
+        background-color: yellow;
+    }
+
+    aside {
+        float: left;
+        width: 10%;
+        display: inline-block;
+        vertical-align: top;
+        background-color:;
+        padding:1px;
+        min-height: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: ;
+        padding-bottom: ;
+    }
